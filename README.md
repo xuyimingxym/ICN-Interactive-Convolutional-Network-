@@ -1,1 +1,1 @@
-# ICN-Interactive-Convolutional-Network-
+# ICN: Interactive Convolutional Network
